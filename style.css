@@ -1,0 +1,34 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: #200020;
+	text-align: center;
+	display: inline-block;
+	width: 100%;
+}
+
+.hover {
+	background: white;
+	background-color: white;
+}
+
+.grid {
+	width: 400px;
+	display: inline-block;
+}
+
+.row {
+
+}
+
+.cell {
+	
+}
+
+
+.btn {
+	text-align: center;
+}
